@@ -1,6 +1,4 @@
 
-
-
 print("Hello, World!")
 
 print("Hello, Kumar!")
