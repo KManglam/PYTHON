@@ -1,3 +1,4 @@
+
 x = memoryview(bytes(5))
 #display x:
 print(x)
