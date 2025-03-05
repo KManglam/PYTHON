@@ -1,6 +1,4 @@
 
-
-
 x = set(("apple", "banana", "cherry"))
 #display x:
 print(x)
