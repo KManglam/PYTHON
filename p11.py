@@ -10,4 +10,5 @@ def calculator(a, b, operation):
     else:
         return "Invalid operation"
 
+
 print(calculator(5, 3, 'add'))  # 8
