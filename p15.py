@@ -8,7 +8,7 @@ print(a_num)  # Output: 20
 # String Example
 a_str = "hello"
 a_str = "world"  # Creates a new string object
-print(a_str)  # Output: world
+print(a_str)  #  Output: world
 
 # Tuple Example
 a_tuple = (1, 2, 3)
