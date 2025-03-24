@@ -1,4 +1,3 @@
-
 sampleDict = {
     "class": {
         "student": {
