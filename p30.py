@@ -1,3 +1,4 @@
+
 def flatten(nested_list):
     flat_list = []
     for item in nested_list:
