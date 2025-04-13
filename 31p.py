@@ -1,4 +1,3 @@
-
 # Write a Python code to find the maximum subarray sum
 
 def max_subarray_sum(arr):
