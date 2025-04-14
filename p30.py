@@ -6,5 +6,4 @@ def flatten(nested_list):
         else:
             flat_list.append(item)
     return flat_list
-
 print(flatten([1, [2, [3, 4], 5], 6]))  # [1, 2, 3, 4, 5, 6]
