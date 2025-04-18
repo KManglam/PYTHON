@@ -4,5 +4,6 @@ sample_dict = {
     "salary": 8000,
     "city": "New york"}
 
+
 # Keys to extract
 keys = ["name", "salary"]
