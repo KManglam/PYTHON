@@ -10,7 +10,6 @@ def count_vowels(s):
         if char in vowels:
             count += 1
     return count
-
 # Example usage
 input_string = "Hello, World!"
 vowel_count = count_vowels(input_string)
