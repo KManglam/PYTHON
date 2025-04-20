@@ -7,8 +7,8 @@ def is_palindrome(s):
 
 
 # Example usage
-input_string = "A man, a plan, a canal, Panama"
-if is_palindrome(input_string):
+a = "A man, a plan, a canal, Panama"
+if is_palindrome(a):
     print("The string is a palindrome.")
 else:
     print("The string is not a palindrome.")
