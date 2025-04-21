@@ -1,6 +1,5 @@
 # Write a Python program to Check Palindrome.(For Number)
 
-
 def is_palindrome(number):
     # Convert number to string for easy manipulation
     num_str = str(number)
