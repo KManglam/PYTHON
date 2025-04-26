@@ -5,7 +5,6 @@ def is_palindrome(s):
     s = s.replace(" ", "").lower()
     return s == s[::-1]
 
-
 # Example usage
 a = "A man, a plan, a canal, Panama"
 if is_palindrome(a):
