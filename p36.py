@@ -1,5 +1,6 @@
 # Write a Python program to Count Vowels in a String.
 
+
 def count_vowels(s):
     # Define vowels
     vowels = "aeiouAEIOU"
