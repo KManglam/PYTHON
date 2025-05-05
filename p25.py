@@ -7,6 +7,6 @@ sample_dict = {
 
 # Keys to extract
 keys = ["name", "salary"]
-keys = [6,3,9,"gg"]
+keys1 = [6,3,9,"gg"]
 print(keys)
 print(keys1)
