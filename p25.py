@@ -5,6 +5,7 @@ sample_dict = {
     "city": "New york"}
 
 
+
 # Keys to extract
 keys = ["name", "salary"]
 keys1 = [6,3,9,"gg"]
