@@ -1,5 +1,6 @@
 # Write a Python program to check if a binary tree is balanced.
 
+
 class Node:
     def __init__(self, value):
         self.value = value
