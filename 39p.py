@@ -22,3 +22,4 @@ root = Node(1)
 root.left = Node(2)
 root.right = Node(3)
 print(is_balanced(root))  # True
+print(root.left)
