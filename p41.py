@@ -5,3 +5,4 @@ for character in word:
     if character in vowel:
         count += 1
 print(count)
+print(word)
