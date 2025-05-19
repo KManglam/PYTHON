@@ -1,4 +1,3 @@
-
 l=[]
 x=int(input("Enter the size of list in number: "))
 
