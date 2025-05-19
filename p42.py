@@ -6,6 +6,5 @@ while(i<=x):
  l.append(a)
 i+=1
 print("Your list is: ",l)
-
 print(l)
 
