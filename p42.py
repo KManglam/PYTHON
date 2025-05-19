@@ -1,7 +1,5 @@
 l=[]
 x=int(input("Enter the size of list in number: "))
-
-
 i=0
 while(i<=x):
  a=int(input())
