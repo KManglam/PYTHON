@@ -11,5 +11,4 @@ elif(p>50):
     grade='E'
 else:
     grade='F'
-    
 print("Grade: ", grade)
