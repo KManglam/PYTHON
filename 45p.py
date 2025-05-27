@@ -1,6 +1,5 @@
 # Display the powers of 2 using anonymous function
 
-
 terms = 10
 # Uncomment code below to take input from the user
 # terms = int(input("How many terms? "))
