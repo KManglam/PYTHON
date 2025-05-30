@@ -31,5 +31,6 @@ ax = fig.add_subplot(133)
 ax.scatter(X_lle[:, 0], X_lle[:, 1], c=color, cmap=plt.cm.Spectral)
 ax.set_title("LLE Embedding (2D)")
 
+
 plt.tight_layout()
 plt.show()
