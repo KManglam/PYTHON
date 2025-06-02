@@ -1,4 +1,5 @@
 p=float(input("Enter percentage:"))
+
 if(p>90):
     grade='A'
 elif(p>80):
