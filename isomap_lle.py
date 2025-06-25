@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import manifold, datasets
 
-# Create a synthetic "S-curve" dataset
+#  Create a synthetic "S-curve" dataset
 X, color = datasets.make_s_curve(n_samples=1000, noise=0.05, random_state=0)
 
 # Apply Isomap
