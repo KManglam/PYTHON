@@ -22,6 +22,7 @@ ax = fig.add_subplot(131, projection='3d')
 ax.scatter(X[:, 0], X[:, 1], X[:, 2], c=color, cmap=plt.cm.Spectral)
 ax.set_title("Original 3D S-Curve")
 
+
 # Isomap result
 ax = fig.add_subplot(132)
 ax.scatter(X_isomap[:, 0], X_isomap[:, 1], c=color, cmap=plt.cm.Spectral)
