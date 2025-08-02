@@ -14,5 +14,6 @@ class Car:
         return f"The {self.name} runs at the maximum speed of {speed}km/hr"
 
 obj2 = Car("Honda City",24.1)
+
 print(obj2.description())
 print(obj2.max_speed(150))
