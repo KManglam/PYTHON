@@ -1,4 +1,4 @@
-#You can play around with the properties of the car and also add and remove some properties in the code block down below
+# You can play around with the properties of the car and also add and remove some properties in the code block down below
 
 class Car:   
     car_type = "Sedan" 
